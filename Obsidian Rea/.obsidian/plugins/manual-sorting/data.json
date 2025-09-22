@@ -1,0 +1,49 @@
+{
+  "customFileOrder": {
+    "/": [
+      "Computação",
+      "Readme.md",
+      "Images"
+    ],
+    "Computação": [
+      "Computação/Software",
+      "Computação/Matematica"
+    ],
+    "Computação/Matematica": [
+      "Computação/Matematica/Pré-Cálculo"
+    ],
+    "Computação/Matematica/Pré-Cálculo": [
+      "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas"
+    ],
+    "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas": [
+      "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas/Propriedades Aritmeticas.md",
+      "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas/Flashcards.md"
+    ],
+    "Computação/Software": [
+      "Computação/Software/readme.md",
+      "Computação/Software/Planejamento",
+      "Computação/Software/Requisitos",
+      "Computação/Software/Design",
+      "Computação/Software/Codificação",
+      "Computação/Software/Teste",
+      "Computação/Software/Implantação",
+      "Computação/Software/Manutenção"
+    ],
+    "Computação/Software/Codificação": [],
+    "Computação/Software/Design": [],
+    "Computação/Software/Implantação": [],
+    "Computação/Software/Manutenção": [],
+    "Computação/Software/Planejamento": [
+      "Computação/Software/Planejamento/Software.md"
+    ],
+    "Computação/Software/Requisitos": [],
+    "Computação/Software/Teste": [],
+    "Images": [
+      "Images/Pasted image 20250919132738.png",
+      "Images/Pasted image 20250917021705.png",
+      "Images/Pasted image 20250917145502.png"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}

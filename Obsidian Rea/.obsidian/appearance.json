@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Vanilla AMOLED",
+  "accentColor": "#ffffff",
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "Image Align"
+  ]
+}

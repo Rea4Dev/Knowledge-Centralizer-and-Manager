@@ -1,0 +1,12 @@
+{
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "Images",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
+}

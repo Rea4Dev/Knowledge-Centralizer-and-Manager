@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "84d11638432c21d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6a2f0e5a53e5161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e3367981de93183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e82fc7e91d408fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de352e363477309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d33754b5f3c726",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8fba0ebee3434594",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "9155dfa108bdeeed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7abe668d2d260188",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f5e9e4a04375b0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aa4844ecc778f28",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software/Operacoes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Operacoes"
+            }
+          },
+          {
+            "id": "4915dbaf84016394",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software/Operacoes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Operacoes"
+            }
+          },
+          {
+            "id": "522fa87d241a1c06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a32e64095bd946d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software/Operacoes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Operacoes"
+            }
+          },
+          {
+            "id": "778521a181b26d6e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Fila de Notas para Revisar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "canvas:Criar novo canvas": false,
+      "graph:Abrir visualização em gráfico": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-spaced-repetition:Revisar flashcards": false
+    }
+  },
+  "active": "0e3367981de93183",
+  "lastOpenFiles": [
+    "Computação/Software/Planejamento/Software.md",
+    "Images/Pasted image 20250919132738.png",
+    "Computação/Software/readme.md",
+    "Readme.md",
+    "Images/mime.png",
+    "Computação/Software/Planejamento/O Software",
+    "Computação/Software/Planejamento/Funções",
+    "Computação/Software/Planejamento/Modelos de Desenvolvimento",
+    "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas/Propriedades Aritmeticas.md",
+    "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas/Flashcards.md",
+    "Computação/Software/Requisitos",
+    "Computação/Software/Manutenção",
+    "Computação/Software/Implantação",
+    "Computação/Software/Teste",
+    "Computação/Software/Codificação",
+    "Computação/Software/Design",
+    "Computação/Software/Planejamento",
+    "Computacao/Software/readme.md",
+    "Images/Pasted image 20250917145502.png",
+    "Images/Pasted image 20250917021705.png",
+    "Computacao/Matematica/Pre-Calculo/Propriedades Aritmeticas/Sem título.md",
+    "Excalidraw/Drawing 2025-09-17 00.00.44.excalidraw.md",
+    "Computacao/Software/Operacoes de Software/readme.md",
+    "Computacao/Readme.md",
+    "Images/Linha horizontal estilizada.png",
+    "Images/Bonbon & Chuchu emote 2.png",
+    "a.png",
+    "Computacao/Software/Gerenciamento de Software/readme.md",
+    "Software/Desenvolvimento de Software/Explicacao.md",
+    "Homepage.md",
+    "Organizacao/Modelos Obsidian/modelo_data.md",
+    "Organizacao/Images/Pasted image 20250901210943.png",
+    "Organizacao/Images/Pasted image 20250901122047.png",
+    "Organizacao/Images/Pasted image 20250828232447.png",
+    "Organizacao/Flashcards/Índice Flashcards.md",
+    "Organizacao/Flashcards/Flashcards Java.md",
+    "Organizacao/RoadMap.md",
+    "Organizacao/Modelo padrão para índices.md",
+    "Organizacao/Manifesto de Fixação de Conteudos v1.0.md",
+    "Organizacao/Manifesto Metodologia de Abordagem Diária.md",
+    "Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/README.md",
+    "Software/Programação de Software/Linguagens/Java/Pratico/Calculadora/README.md",
+    "Software/Programação de Software/Linguagens/‎ Python/Conteudos/Valores Protegidos.md",
+    "Software/Programação de Software/Linguagens/‎ Python/Funções/PEP 8 - Funções e Variáveis.md",
+    "Software/Programação de Software/Linguagens/‎ Python/Conteudos/Valores Privados.md"
+  ]
+}
