@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "a6a2f0e5a53e5161",
+        "id": "84f4aa1b9705ba91",
         "type": "tabs",
         "children": [
           {
-            "id": "0e3367981de93183",
+            "id": "13c23dbb37331242",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
-                "mode": "preview",
+                "file": "Computação/Matematica/Cálculo/Cálculo I/Introdução.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Introdução"
+            }
+          },
+          {
+            "id": "1776839f8a83d9ad",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Computação/Matematica/Cálculo/Cálculo I/Limites.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Limites"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7abe668d2d260188",
@@ -182,52 +196,53 @@
       "obsidian-spaced-repetition:Revisar flashcards": false
     }
   },
-  "active": "0e3367981de93183",
+  "active": "1776839f8a83d9ad",
   "lastOpenFiles": [
-    "Computação/Software/Planejamento/Software.md",
-    "Images/Pasted image 20250919132738.png",
-    "Computação/Software/readme.md",
+    "Computação/Matematica/Cálculo/Cálculo I/Limites.md",
+    "Computação/Matematica/Cálculo/Cálculo I/Limites.md",
+    "Computação/Matematica/Cálculo/Cálculo I/Introdução.md",
+    "Images/Pasted image 20250922221606.png",
+    "Computação/Matematica/Álgebra/Funções/Função.md",
+    "Computação/Matematica/Álgebra/Funções/Flashcards.md",
+    "Images/Pasted image 20250922203834.png",
+    "Images/Pasted image 20250922203746.png",
+    "Images/Pasted image 20250922203723.png",
+    "Images/Pasted image 20250922203657.png",
+    "Images/Pasted image 20250922203635.png",
+    "Images/Pasted image 20250922203613.png",
+    "Images/Pasted image 20250922203551.png",
+    "Images/Pasted image 20250922202658.png",
+    "Computação/Matematica/Álgebra/Álgebra Elementar",
+    "Computação/Matematica/Aritmética/Propriedades Aritmeticas/Flashcards.md",
+    "Computação/Matematica/Álgebra/Funções",
+    "Computação/Matematica/Cálculo",
+    "Computação/Matematica/Geometria",
+    "Computação/Matematica/Álgebra",
+    "Computação/Matematica/Aritmética",
+    "Images/intergal.md",
+    "Images/pngegg.png",
+    "Images/Drawing 2025-09-22 16.37.04.excalidraw.md",
     "Readme.md",
-    "Images/mime.png",
+    "Computação/Matematica/Cálculo/Cálculo I",
+    "Computação/Software/Planejamento/Software.md",
+    "Computação/Software/readme.md",
     "Computação/Software/Planejamento/O Software",
     "Computação/Software/Planejamento/Funções",
     "Computação/Software/Planejamento/Modelos de Desenvolvimento",
-    "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas/Propriedades Aritmeticas.md",
-    "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas/Flashcards.md",
-    "Computação/Software/Requisitos",
-    "Computação/Software/Manutenção",
-    "Computação/Software/Implantação",
-    "Computação/Software/Teste",
-    "Computação/Software/Codificação",
-    "Computação/Software/Design",
-    "Computação/Software/Planejamento",
+    "Computação/Matematica/Aritmética/Propriedades Aritmeticas/Propriedades Aritmeticas.md",
     "Computacao/Software/readme.md",
-    "Images/Pasted image 20250917145502.png",
-    "Images/Pasted image 20250917021705.png",
     "Computacao/Matematica/Pre-Calculo/Propriedades Aritmeticas/Sem título.md",
     "Excalidraw/Drawing 2025-09-17 00.00.44.excalidraw.md",
     "Computacao/Software/Operacoes de Software/readme.md",
     "Computacao/Readme.md",
-    "Images/Linha horizontal estilizada.png",
-    "Images/Bonbon & Chuchu emote 2.png",
-    "a.png",
     "Computacao/Software/Gerenciamento de Software/readme.md",
     "Software/Desenvolvimento de Software/Explicacao.md",
     "Homepage.md",
     "Organizacao/Modelos Obsidian/modelo_data.md",
-    "Organizacao/Images/Pasted image 20250901210943.png",
-    "Organizacao/Images/Pasted image 20250901122047.png",
-    "Organizacao/Images/Pasted image 20250828232447.png",
     "Organizacao/Flashcards/Índice Flashcards.md",
     "Organizacao/Flashcards/Flashcards Java.md",
     "Organizacao/RoadMap.md",
     "Organizacao/Modelo padrão para índices.md",
-    "Organizacao/Manifesto de Fixação de Conteudos v1.0.md",
-    "Organizacao/Manifesto Metodologia de Abordagem Diária.md",
-    "Software/Programação de Software/Linguagens/Java/Pratico/Exercicios/README.md",
-    "Software/Programação de Software/Linguagens/Java/Pratico/Calculadora/README.md",
-    "Software/Programação de Software/Linguagens/‎ Python/Conteudos/Valores Protegidos.md",
-    "Software/Programação de Software/Linguagens/‎ Python/Funções/PEP 8 - Funções e Variáveis.md",
-    "Software/Programação de Software/Linguagens/‎ Python/Conteudos/Valores Privados.md"
+    "Organizacao/Manifesto de Fixação de Conteudos v1.0.md"
   ]
 }

@@ -1,4 +1,4 @@
-#Computacao/Matematica/Pre-Calculo
+#Computacao/Matematica/Aritmética/Propriedades
 
 1) Quais as propriedades da potência?;;![[Pasted image 20250917021705.png]]
 <!--SR:!2025-09-21,4,270-->

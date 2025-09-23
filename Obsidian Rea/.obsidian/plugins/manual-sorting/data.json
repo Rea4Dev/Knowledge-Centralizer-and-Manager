@@ -1,8 +1,8 @@
 {
   "customFileOrder": {
     "/": [
-      "Computação",
       "Readme.md",
+      "Computação",
       "Images"
     ],
     "Computação": [
@@ -10,15 +10,30 @@
       "Computação/Matematica"
     ],
     "Computação/Matematica": [
-      "Computação/Matematica/Pré-Cálculo"
+      "Computação/Matematica/Aritmética",
+      "Computação/Matematica/Álgebra",
+      "Computação/Matematica/Geometria",
+      "Computação/Matematica/Cálculo"
     ],
-    "Computação/Matematica/Pré-Cálculo": [
-      "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas"
+    "Computação/Matematica/Álgebra": [
+      "Computação/Matematica/Álgebra/Funções"
     ],
-    "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas": [
-      "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas/Propriedades Aritmeticas.md",
-      "Computação/Matematica/Pré-Cálculo/Propriedades Aritmeticas/Flashcards.md"
+    "Computação/Matematica/Álgebra/Funções": [],
+    "Computação/Matematica/Aritmética": [
+      "Computação/Matematica/Aritmética/Propriedades Aritmeticas"
     ],
+    "Computação/Matematica/Aritmética/Propriedades Aritmeticas": [
+      "Computação/Matematica/Aritmética/Propriedades Aritmeticas/Propriedades Aritmeticas.md",
+      "Computação/Matematica/Aritmética/Propriedades Aritmeticas/Flashcards.md"
+    ],
+    "Computação/Matematica/Cálculo": [
+      "Computação/Matematica/Cálculo/Cálculo I"
+    ],
+    "Computação/Matematica/Cálculo/Cálculo I": [
+      "Computação/Matematica/Cálculo/Cálculo I/Introdução.md",
+      "Computação/Matematica/Cálculo/Cálculo I/Limites.md"
+    ],
+    "Computação/Matematica/Geometria": [],
     "Computação/Software": [
       "Computação/Software/readme.md",
       "Computação/Software/Planejamento",
@@ -39,6 +54,19 @@
     "Computação/Software/Requisitos": [],
     "Computação/Software/Teste": [],
     "Images": [
+      "Images/Pasted image 20250922221606.png",
+      "Images/Pasted image 20250922203551.png",
+      "Images/Pasted image 20250922203613.png",
+      "Images/Pasted image 20250922203635.png",
+      "Images/Pasted image 20250922203657.png",
+      "Images/Pasted image 20250922203723.png",
+      "Images/Pasted image 20250922203746.png",
+      "Images/Pasted image 20250922203834.png",
+      "Images/Pasted image 20250922202658.png",
+      "Images/Pasted image 20250922175703.png",
+      "Images/intergal.md",
+      "Images/pngegg.png",
+      "Images/Drawing 2025-09-22 16.37.04.excalidraw.md",
       "Images/Pasted image 20250919132738.png",
       "Images/Pasted image 20250917021705.png",
       "Images/Pasted image 20250917145502.png"
