@@ -12,7 +12,6 @@
     "Computação/Matematica": [
       "Computação/Matematica/Aritmética",
       "Computação/Matematica/Álgebra",
-      "Computação/Matematica/Geometria",
       "Computação/Matematica/Cálculo"
     ],
     "Computação/Matematica/Álgebra": [
@@ -40,27 +39,33 @@
       "Computação/Matematica/Cálculo/Cálculo I/Limites.md",
       "Computação/Matematica/Cálculo/Cálculo I/Flashcards.md"
     ],
-    "Computação/Matematica/Geometria": [],
     "Computação/Software": [
       "Computação/Software/readme.md",
-      "Computação/Software/Planejamento",
-      "Computação/Software/Requisitos",
-      "Computação/Software/Design",
-      "Computação/Software/Codificação",
-      "Computação/Software/Teste",
-      "Computação/Software/Implantação",
-      "Computação/Software/Manutenção"
+      "Computação/Software/Planejamento"
     ],
-    "Computação/Software/Codificação": [],
-    "Computação/Software/Design": [],
-    "Computação/Software/Implantação": [],
-    "Computação/Software/Manutenção": [],
     "Computação/Software/Planejamento": [
       "Computação/Software/Planejamento/Software.md"
     ],
-    "Computação/Software/Requisitos": [],
-    "Computação/Software/Teste": [],
     "Images": [
+      "Images/Pasted image 20250924082039.png",
+      "Images/Pasted image 20250923222709.png",
+      "Images/Pasted image 20250923222735.png",
+      "Images/Pasted image 20250923222756.png",
+      "Images/Pasted image 20250923222821.png",
+      "Images/Pasted image 20250923223245.png",
+      "Images/Pasted image 20250923223304.png",
+      "Images/Pasted image 20250923223322.png",
+      "Images/Pasted image 20250923223356.png",
+      "Images/Pasted image 20250923223411.png",
+      "Images/Pasted image 20250923223423.png",
+      "Images/Pasted image 20250923223513.png",
+      "Images/Pasted image 20250923223615.png",
+      "Images/Pasted image 20250923223707.png",
+      "Images/Pasted image 20250923223723.png",
+      "Images/Pasted image 20250923223748.png",
+      "Images/Pasted image 20250923223923.png",
+      "Images/Pasted image 20250923224003.png",
+      "Images/Pasted image 20250923224021.png",
       "Images/Pasted image 20250923205304.png",
       "Images/Pasted image 20250923205322.png",
       "Images/Pasted image 20250923205327.png",
