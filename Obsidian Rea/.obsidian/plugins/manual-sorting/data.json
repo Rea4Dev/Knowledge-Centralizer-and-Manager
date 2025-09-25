@@ -11,7 +11,6 @@
     ],
     "Computação/Matematica": [
       "Computação/Matematica/Estatística",
-      "Computação/Matematica/Geometria",
       "Computação/Matematica/Aritmética",
       "Computação/Matematica/Álgebra",
       "Computação/Matematica/Cálculo"
@@ -45,16 +44,10 @@
       "Computação/Matematica/Estatística/Sem título 1.md",
       "Computação/Matematica/Estatística/Sem título.md"
     ],
-    "Computação/Matematica/Geometria": [],
     "Computação/Software": [
       "Computação/Software/readme.md",
       "Computação/Software/Planejamento",
-      "Computação/Software/Requisitos",
-      "Computação/Software/Design",
-      "Computação/Software/Codificação",
-      "Computação/Software/Implantação",
-      "Computação/Software/Manutenção",
-      "Computação/Software/Teste"
+      "Computação/Software/Codificação"
     ],
     "Computação/Software/Codificação": [
       "Computação/Software/Codificação/Ferramentas"
@@ -65,15 +58,11 @@
     "Computação/Software/Codificação/Ferramentas/IDE": [
       "Computação/Software/Codificação/Ferramentas/IDE/VIM.md"
     ],
-    "Computação/Software/Design": [],
-    "Computação/Software/Implantação": [],
-    "Computação/Software/Manutenção": [],
     "Computação/Software/Planejamento": [
       "Computação/Software/Planejamento/Software.md"
     ],
-    "Computação/Software/Requisitos": [],
-    "Computação/Software/Teste": [],
     "Images": [
+      "Images/Pasted image 20250925084651.png",
       "Images/Pasted image 20250924205952.png",
       "Images/Recording 20250924204539.m4a",
       "Images/Pasted image 20250924195742.png",

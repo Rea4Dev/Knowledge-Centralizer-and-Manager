@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computação/Matematica/Estatística/Sem título.md",
+                "file": "Computação/Matematica/Álgebra/Funções/PDA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "PDA"
             }
           },
           {
@@ -33,6 +33,18 @@
               },
               "icon": "lucide-file",
               "title": "Sem título 1"
+            }
+          },
+          {
+            "id": "f94a5138a54cbb9e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/rascunho.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "rascunho"
             }
           }
         ]
@@ -197,10 +209,13 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "778521a181b26d6e",
+  "active": "f8f4f9621de5a9ce",
   "lastOpenFiles": [
-    "Computação/Matematica/Estatística/Sem título 1.md",
+    "Computação/Matematica/Cálculo/Cálculo I/Flashcards.md",
+    "Images/Pasted image 20250925084651.png",
     "Computação/Matematica/Estatística/Sem título.md",
+    "Computação/Matematica/Estatística/Sem título 1.md",
+    "Images/rascunho.md",
     "Images/Pasted image 20250924205952.png",
     "Images/Recording 20250924204539.m4a",
     "Computação/Software/Codificação/Ferramentas/IDE/VIM.md",
@@ -210,7 +225,6 @@
     "Images/Pasted image 20250924195504.png",
     "Computação/Matematica/Cálculo/Cálculo I/Limites.md",
     "Computação/Matematica/Estatística",
-    "Computação/Matematica/Cálculo/Cálculo I/Flashcards.md",
     "Images/Pasted image 20250924091250.png",
     "Images/Pasted image 20250924090927.png",
     "Images/Pasted image 20250924090917.png",
@@ -219,11 +233,9 @@
     "Computação/Matematica/Álgebra/Funções/PDA.md",
     "Images/Pasted image 20250924082039.png",
     "Computação/Matematica/Cálculo/Cálculo I/Introdução.md",
-    "Images/Pasted image 20250923224021.png",
     "Readme.md",
     "Computação/Matematica/Aritmética/Propriedades Aritmeticas/Flashcards.md",
     "Computação/Matematica/Aritmética/Propriedades Aritmeticas/Propriedades Aritmeticas.md",
-    "Images/rascunho.md",
     "Computação/Matematica/Álgebra/Propriedades Álgebra/Flashcards.md",
     "Computação/Matematica/Álgebra/Propriedades Álgebra",
     "Images/Drawing 2025-09-22 16.37.04.excalidraw.md",
