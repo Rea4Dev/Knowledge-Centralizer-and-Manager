@@ -8,5 +8,6 @@
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
   "readableLineLength": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "vimMode": false
 }
